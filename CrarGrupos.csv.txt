@@ -1,0 +1,4 @@
+nombre,Descripcion
+Dep_Info, Este es el grupo de INFORMATICA
+Dep_Admin, Este es el grupo de ADMINISTRACION
+Dep_Marketing, Este es el grupo de MARKETING
